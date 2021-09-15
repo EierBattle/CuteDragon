@@ -133,15 +133,14 @@ First few fights are easy but may cause some permanent dmg if not perfected like
 
 
 
-### Cards
-- "OMG I'm scared"
-    - Does nothing
-- "I just peed my pants"
-    - Does nothing productive
+### Negative Effect Cards
+- Terrified
+    - Can't play anything this turn if this is in your hand
+- I'm hurt!
+    - Play this card and lose 1 health
 
 
 ![permalink setting demo](https://i.imgur.com/PN8TmMI.gif)
 
 ideas for later:
-- card effects that effect things next turn (yuor cards or later)
-- never poop in a box
+- card effects that effect things next turn (your cards or others)
