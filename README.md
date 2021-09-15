@@ -1,3 +1,6 @@
+See https://github.com/EierBattle/CuteDragon/blob/main/Battle_Alpha.ipynb for example of a round
+See https://hackmd.io/5ZSoPyVNRdejWNkfEhMAAA?view for fully working Markdown
+
 # Battle Alpha
 
 # Battle Beta Ver. 0.1
