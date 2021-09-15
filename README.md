@@ -3,9 +3,7 @@ Start here:
 - [Fully Functional ReadMe](https://hackmd.io/5ZSoPyVNRdejWNkfEhMAAA?view)
 - [Code in progress for on Word2Vec NPC interactions](https://github.com/EierBattle/CuteDragon/blob/main/word2vec.ipynb)
 
-# Battle Alpha
-
-# Battle Beta Ver. 0.1
+# Battle Alpha Ver. 0.1
 
 ![](https://i.imgur.com/BFl5kyB.png)
 
@@ -83,7 +81,7 @@ After players die, remaining players fight on, getting "enraged" by their death.
 First few fights are easy but may cause some permanent dmg if not perfected like in slay the spire
 
 - Barbarian
-	- [Axe](https://imgur.com/gallery/pmSuXlo)
+	- [Axe](https://cdn11.bigcommerce.com/s-0kvv9/images/stencil/1280x1280/products/287262/403630/transformerstcgwave1energonaxe__08679.1549921215.jpg?c=2)
 	    - 2 dmg to two
 	- Combine: Halve
 	  - Split the ranged card before this one into 2 x 75% versions of it (at sepaeate targets if possible)
