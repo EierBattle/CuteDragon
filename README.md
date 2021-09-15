@@ -1,5 +1,6 @@
-See https://github.com/EierBattle/CuteDragon/blob/main/Battle_Alpha.ipynb for example of a round
-See https://hackmd.io/5ZSoPyVNRdejWNkfEhMAAA?view for fully working Markdown
+- See https://github.com/EierBattle/CuteDragon/blob/main/Battle_Alpha.ipynb for example of a round
+- See https://hackmd.io/5ZSoPyVNRdejWNkfEhMAAA?view for fully working Markdown
+- See https://github.com/EierBattle/CuteDragon/blob/main/word2vec.ipynb for developing code on Word2Vec NPC interractions
 
 # Battle Alpha
 
